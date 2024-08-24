@@ -2,7 +2,7 @@
 
 ### Hello 🌎, I'm Shah Md. Mahi
 
-With over 2 years of experience as a Software Engineer, I'm on a mission to create technology solutions that connect the digital world with real life! I have the power to develop in frontend, backend, which allows me to bring my magic to both revolutionary startups and giant enterprise projects. I'm passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation and continuous professional growth. Let's make technology shine! 🚀
+With over 8 years of experience as a Software Engineer, I'm on a mission to create technology solutions that connect the digital world with real life! I have the power to develop in frontend, backend, which allows me to bring my magic to both revolutionary startups and giant enterprise projects. I'm passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation and continuous professional growth. Let's make technology shine! 🚀
 
 
   - 🔭 I’m currently working on upgrading java applications from jdk 8 to 21.
@@ -10,9 +10,21 @@ With over 2 years of experience as a Software Engineer, I'm on a mission to crea
   - 💬 Ask me about **Html, Css, Sass, Bootstrap, Javascript, Typescript, React,  PHP,  Lumen, Laravel,  C#, .NET, Java, Spring Boot, Scrum, Google Cloud Platform, GKE, GCE, CI/CD, TDD, DDD, Docker, Kubernetes**
   - ⚡ Fun fact: I look like a hobbit.
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<!-- <a href="https://twitter.com/ShahMdMahi" target="blank"><i align="center" class="devicon-twitter-original" alt="ShahMdMahi" height="40" width="60" ></i>
+</a> -->
+<a href="https://www.linkedin.com/in/shah-md-mahi/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="shah-md-mahi" height="40" width="60" ></i>
+</a>
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShahMdMahi&label=Profile%20views&color=0e75b6&style=flat" alt="ShahMdMahi" /> </p>
+
 
 ------
 <h3 align="left">Activity:</h3>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShahMdMahi&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <a href="https://github.com/ShahMdMahi">
@@ -22,7 +34,7 @@ With over 2 years of experience as a Software Engineer, I'm on a mission to crea
 </div>
 <p align="center">
   <a href="https://github.com/ShahMdMahi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahMdMahi&&theme=tokyonight" alt="ShahMdMahi" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RResabala2015&&theme=tokyonight" alt="ShahMdMahi" />
   </a>
 </p>
 
@@ -68,10 +80,5 @@ With over 2 years of experience as a Software Engineer, I'm on a mission to crea
 </table>
 
 ------
-[RResabala2015](https://github.com/ShahMdMahi)
+[ShahMdMahi](https://github.com/ShahMdMahi)
 26/07/2024
-
-<!---
-ShahMdMahi/ShahMdMahi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
